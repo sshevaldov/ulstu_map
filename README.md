@@ -1,2 +1,3 @@
 # ulstu_map
-version 1.19.1
+Виртуальная карта УлГТУ
+<p>version 1.19.1
